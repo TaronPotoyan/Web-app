@@ -1,0 +1,46 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #575959e4;
+  text-align: center;
+}
+header{
+  overflow: visible;
+  background-color: rgb(221, 24, 93);
+  text-align: center;
+}
+main{
+  height: 400px;
+  background-color:  rgb(221, 24, 93);
+  h1{
+    text-align: center;
+  }
+  /* p{
+    text-align: left;
+  } */
+}
+main p{
+  text-align: left;
+}
+footer{
+  text-align: left;
+  background-color: rgb(221, 24, 93);
+  height: 250px;
+}
+
+a{
+
+  text-align: right;
+}
+
+header {
+  text-align: center;
+}
+table {
+  margin: 0 auto; 
+}
+table td {
+  padding: 70px; 
+  text-align: center; 
+  
+}
